@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @msanfilippof
 - 👀 I’m interested in ... TODO
 - 🌱 I’m currently learning ... TODO again
-- 💞️ I’m looking to collaborate on ... still TODO
+- 💻 I’m looking to collaborate on ... still TODO
 - 📫 How to reach me ... T...witter! LinkedIn!
 
 <!---
